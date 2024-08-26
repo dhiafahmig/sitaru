@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "faslitias1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 6345, "NAMOBJ": "Kawasan Fasilitas Umum dan Fasilitas Sosial", "ORDE01": 32100000, "ORDE02": 32104000, "ORDE03": 32104000, "ORDE04": 32104000, "KODKWS": "FUS", "JNSRPR": 32000000, "WADMPR": "Provinsi Lampung", "WADMKK": "Kota Bandar Lampung", "WADMKC": "Kecamatan Bumi Waras", "KKOP_1": "Tidak Ada", "KP2B_2": "Tidak Ada", "KRB_03": "Tidak Ada", "CAGBUD": "Tidak Ada", "RESAIR": "Tidak Ada", "KSMPDN": "Tidak Ada", "HANKAM": "Tidak Ada", "KKARST": "Tidak Ada", "PTBGMB": "Tidak Ada", "MGRSAT": "Tidak Ada", "RDBUMI": "Tidak Ada", "REMARK": null, "LUASHA": 0.25748540512000001, "SHAPE_Leng": 0.00201203502, "SHAPE_Area": 2.1011e-07 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.277442509000025, -5.44484961400002, 0.0 ], [ 105.277461730000027, -5.444934190000026, 0.0 ], [ 105.277392680999981, -5.44495344500001, 0.0 ], [ 105.27737731000002, -5.444899625, 0.0 ], [ 105.277070433, -5.445007421000014, 0.0 ], [ 105.277021886999989, -5.444856007999988, 0.0 ], [ 105.276927705999981, -5.444580014999985, 0.0 ], [ 105.277011672000015, -5.44455304600001, 0.0 ], [ 105.277008301000023, -5.444529483999986, 0.0 ], [ 105.277088905000028, -5.444495784000026, 0.0 ], [ 105.277068713, -5.444415002000028, 0.0 ], [ 105.277276949999987, -5.444354314, 0.0 ], [ 105.277442509000025, -5.44484961400002, 0.0 ] ] ] ] } }
+]
+}
